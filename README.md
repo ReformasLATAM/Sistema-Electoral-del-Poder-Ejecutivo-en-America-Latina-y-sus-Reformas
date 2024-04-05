@@ -1,6 +1,6 @@
 # Sistema Electoral del Poder Ejecutivo en América Latina y sus Reformas
 
-Bienvenidos/as al repositorio GitHub de la base de datos "Sistema Electoral del Poder Ejecutivo en América Latina y sus Reformas", dirigida y mantenida por integrantes del Observatorio de Reformas Políticas en América Latina.
+Bienvenidos/as al repositorio GitHub de la base de datos "Sistema Electoral del Poder Ejecutivo en América Latina y sus Reformas", creada por la Dra. Flavia Freidenberg y mantenida por integrantes del Observatorio de Reformas Políticas en América Latina.
 
 ## Contenidos
 
